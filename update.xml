@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.0</version>
+    <version>1.6.2.0</version>
     <url>https://github.com/n7coo/Chroniq-Updates/releases/download/1.6.3.0/Chroniq_v1.6.3.0.zip</url>
-    <changelog>https://github.com/n7coo/Chroniq-Updates</changelog>
+    <changelog>https://github.com/n7coo/Chroniq-Updates/releases</changelog>
     <mandatory>false</mandatory>
 </item>
